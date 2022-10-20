@@ -16,7 +16,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Default Dark+",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -33,5 +33,5 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "window.zoomLevel": 0
+  "window.zoomLevel": -1
 }
